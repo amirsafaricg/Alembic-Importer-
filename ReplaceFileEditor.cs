@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
+// Created By Amir Safari , MadMaqz Game Developing team 
+// Contact : a.safari1380@gmail.com
 [CustomEditor(typeof(ReplaceFile))]
 public class ReplaceFileEditor : Editor
 {
